@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1574765891 source:c:\users\user\prog\3 sem\2.3 аа\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<windows.h>
+	<algorithm>
+
+1590464754 source:c:\users\rog\desktop\Григорьев_Прога\2.3 аа\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<algorithm>
+	<locale.h>
+
+1590464754 source:c:\users\rog\desktop\proga\2.3\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<algorithm>
+	<locale.h>
+
